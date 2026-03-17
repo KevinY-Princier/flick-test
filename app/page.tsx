@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <>
-      <h1>Yours first mine second</h1>
+      <h1>Yours first mine third</h1>
     </>
   );
 }
