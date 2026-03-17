@@ -1,7 +1,7 @@
 import React from "react";
 
 const Swim = () => {
-  return <div>Swim</div>;
+  return <div>wowy</div>;
 };
 
 export default Swim;
