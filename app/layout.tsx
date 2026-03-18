@@ -13,8 +13,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+<<<<<<< HEAD
   title: "Princier-b App",
   description: "Princier-b branch application",
+=======
+  title: "Main Production App",
+  description: "Main branch production application",
+>>>>>>> origin/main
 };
 
 export default function RootLayout({
